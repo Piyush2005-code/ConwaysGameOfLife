@@ -1,2 +1,2 @@
 # ConwaysGameOfLife
-Simple Implementation of Tower of Hanoi...
+Simple Implementation of Conways Game of Life
